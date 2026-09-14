@@ -1,0 +1,12 @@
+# Excel temp/lock files
+~$*.xlsx
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python (if you extend the analysis)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
